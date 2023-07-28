@@ -18,7 +18,6 @@ class _HomeScreenState extends State<HomeScreen> {
               children: [
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
-                  // crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Image(
                       image: AssetImage('assets/1.png'),
