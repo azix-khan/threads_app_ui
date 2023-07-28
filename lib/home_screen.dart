@@ -13,15 +13,6 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        // appBar: AppBar(
-        //   backgroundColor: Colors.white,
-        //   title: const Image(
-        //     image: AssetImage('assets/1.png'),
-        //     height: 50,
-        //     width: 50,
-        //   ),
-        //   centerTitle: true,
-        // ),
         body: const SingleChildScrollView(
           child: SafeArea(
             child: Column(
